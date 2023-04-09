@@ -15,3 +15,7 @@ body {
 .row {
   display: flex;
 }
+
+.for {
+  display: inline;
+}
